@@ -4,6 +4,10 @@
 
 This project implements a simple solution for the Kaggle "Histopathologic Cancer Detection" competition using PyTorch and Google Colab TPUs. It utilizes transfer learning with a pretrained EfficientNet-B0 model to classify 96x96 pixel image patches from lymph node scans as either containing metastatic cancer tissue (label 1) or not (label 0).
 
+## Submission Score
+![image](https://github.com/user-attachments/assets/7b262ce2-c1a1-4059-94d4-38a6bb94f3da)
+
+
 ## Assignment Context
 
 This project fulfills the requirements for **Option 2** of the Neural Network assignment:
